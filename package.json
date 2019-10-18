@@ -1,18 +1,24 @@
 {
   "dependencies": {
+    "assets": "^3.0.1",
     "vue": "^2.6.10",
     "vue-hot-reload-api": "^2.3.4"
   },
   "devDependencies": {
     "@vue/component-compiler-utils": "^3.0.0",
+    "cssnano": "^4.1.10",
+    "parcel-plugin-static-files-copy": "^2.2.1",
     "pug": "^2.0.4",
     "sass": "^1.23.0",
     "typescript": "^3.6.4",
     "vue-template-compiler": "^2.6.10"
   },
   "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "dev": "python build_galleries_map.py && parcel index.html",
+    "build": "python build_galleries_map.py && parcel build index.html"
+  },
+  "staticFiles": {
+    "staticPath": "static",
+    "watcherGlob": "**"
   }
-
 }

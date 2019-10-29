@@ -1,6 +1,6 @@
 // index.js
 
 import Vue from "vue";
-import App from "./App.vue";
+import Photos from "./Photos.vue";
 
-new Vue(App).$mount("#app");
+new Vue(Photos).$mount("#app");

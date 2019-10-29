@@ -5,7 +5,7 @@
     <div class="nav">
       <h2>Provoke Analog</h2>
       <ul class="galleries-list">
-        <li :class="{'gallery-list-item': true, 'gallery-list-item-selected': (galleryName == activeGallery)}" v-for="(images, galleryName) in galleryMap" :key=galleryName>
+        <li :class="{'gallery-list-item': true, 'gallery-list-item-selected': (galleryName == activeGallery)}" v-for="(images, galleryName) in galleryMap " :key=galleryName>
           <a @click="changeGallery(galleryName)">{{galleryName}}</a>
         </li>
       </ul>

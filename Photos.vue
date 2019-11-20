@@ -31,7 +31,7 @@ export default Vue.extend({
     return {
       bundler: "Parcel",
       galleryMap: gallery_map,
-      activeGallery: '35mmBlackAndWhite'
+      activeGallery: 'AshevilleNC'
     };
   },
   methods: {

@@ -15,7 +15,7 @@ export default {
   },
   computed: {
     lfsImagePath: function() {
-      return this.imagePath + "?nf_resize=fit&w=300";
+      return this.imagePath + "?nf_resize=fit&w=512";
     }
   }
 };

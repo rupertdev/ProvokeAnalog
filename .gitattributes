@@ -3,73 +3,53 @@ static/galleries/35mmBlackAndWhite filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41 filter=lfs diff=lfs merge=lfs -text
 static/galleries/AshevilleNC filter=lfs diff=lfs merge=lfs -text
 static/galleries/FujiXH1 filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmBlackAndWhite/DSCF4800.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-026A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
+
+
 static/galleries/FujiXH1/XH1-0068.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/MediumFormatBlackAndWhite/First-Home-Processed-120-9.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/AshevilleNC/Asheville-0071.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/AshevilleNC/Asheville-0072.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmBlackAndWhite/DSCF4797.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
+
+
 static/galleries/35mmBlackAndWhite/DSCF4802.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/68730038.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-035A.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/FujiXH1/XH1-0065.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/FujiXH1/XH1-0068.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/68730011.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
+
+
+
 static/galleries/35mmC41/68730025.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-019A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/AshevilleNC/Asheville-0070.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
+
+
 static/galleries/AshevilleNC/Asheville-0074.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/FujiXH1/XH1-0066.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/FujiXH1/XH1-0066.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/MediumFormatBlackAndWhite/First-Home-Processed-120-8.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
+
+
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-009A.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-019A.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-031A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
+
 static/galleries/AshevilleNC/Asheville-0075.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmBlackAndWhite/DSCF4797.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/68730011.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/68730025.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-001A.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmBlackAndWhite/DSCF4801.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/AshevilleNC/Asheville-0070.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/MediumFormatBlackAndWhite/Early-Open.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-024A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/AshevilleNC/Asheville-0072.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/FujiXH1/XH1-0067.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/FujiXH1/XH1-0067.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmBlackAndWhite/DSCF4801.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-023A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-027A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/FujiXH1/XH1-0065.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-009A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-028A.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-031A.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/AshevilleNC/Asheville-0073.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/AshevilleNC/Asheville-0075.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/MediumFormatBlackAndWhite/Early-Open.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/MediumFormatBlackAndWhite/First-Home-Processed-120-8.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-011A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-018A.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/AshevilleNC/Asheville-0069.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/AshevilleNC/Asheville-0071.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/MediumFormatBlackAndWhite/First-Home-Processed-120-9.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-011A.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-023A.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/AshevilleNC/Asheville-0069.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmBlackAndWhite/DSCF4799.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-026A.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-035A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/AshevilleNC/Asheville-0073.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/AshevilleNC/Asheville-0074.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-001A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-020A.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-020A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-027A.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmBlackAndWhite/DSCF4799.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-018A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-024A.jpg filter=lfs diff=lfs merge=lfs -text
 static/galleries/35mmBlackAndWhite/DSCF4800.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmBlackAndWhite/DSCF4802.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/68730038.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
-static/galleries/35mmC41/OM-1-PORTA-400-ROLL-1-R1-01395-028A.jpg-lowres.jpg filter=lfs diff=lfs merge=lfs -text
+
+
+

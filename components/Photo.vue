@@ -1,10 +1,5 @@
 <template>
-  <v-lazy-image
-    @click="viewImage(imagePath)"
-    class="gallery-image"
-    :src="imagePath"
-    :src-placeholder="getLowResImage(imagePath)"
-  ></v-lazy-image>
+  <img @click="viewImage(imagePath)" class="gallery-image" :src="lfsImagePath" />
 </template>
 
 <script>
@@ -16,12 +11,13 @@ export default {
   methods: {
     viewImage: function(imagePath) {
       window.open(imagePath);
-    },
-    getLowResImage: function(imagePath) {
-      return imagePath + "-lowres.jpg";
     }
   },
-  components: { VLazyImage }
+  computed: {
+    lfsImagePath: function() {
+      return this.imagePath + "?nf_resize=fit&w=300";
+    }
+  }
 };
 </script>
 
@@ -31,12 +27,5 @@ export default {
   min-height: 256px;
   margin: 10px;
   display: inline-block;
-}
-.v-lazy-image {
-  filter: blur(10px);
-  transition: filter 0.5s;
-}
-.v-lazy-image-loaded {
-  filter: blur(0);
 }
 </style>

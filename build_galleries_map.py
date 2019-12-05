@@ -14,7 +14,9 @@ for gallery, _, imageList in os.walk(root):
             gallery_map[gallery_name].append(image)
 
 for gallery, images in gallery_map.items():
+    print(images)
     gallery_map[gallery] = sorted(images)
+    print(f"after sort: {sorted(images)}")
 
 pprint(gallery_map)
 
